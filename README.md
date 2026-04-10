@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> **Solved with Google Antigravity**
+> この問題は Google の強力な AI コーディングアシスタント **Antigravity** を活用して解決されました。
+
 # Login Bonus 2 - Writeup
 
 ## 概要
@@ -17,5 +21,3 @@
 3. ペイロードを送信すると、認証エラー時の `debug_report` の呼び出しにおいて、`argv[0]` が指す先がフラグ文字列となり、画面に表示されます。
 
 **Flag**: `Alpaca{...}` (解決スクリプトの実行により取得可能)
-
-この問題はgoogleのantigravityを使って解きました。
